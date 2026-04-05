@@ -71,5 +71,5 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-Your Name
+Narmeta Bhanu Pranitha
 
